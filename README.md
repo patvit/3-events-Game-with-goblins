@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gtcooy4fx6i9avpb?svg=true)](https://ci.appveyor.com/project/patvit/2-dom-9cffx)
+
 
 ### [Gh-page](https://mksinc.github.io/AHJ-hw.-3-Events.-1-Game-with-goblins/)
 # 3. Домашнее задание к лекции «Обработка событий»
