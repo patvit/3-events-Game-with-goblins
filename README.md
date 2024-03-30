@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/gtcooy4fx6i9avpb?svg=true)](https://ci.appveyor.com/project/patvit/2-dom-9cffx)
+[![Build status](https://ci.appveyor.com/api/projects/status/tvwxvongg47fk6ow?svg=true)](https://ci.appveyor.com/project/patvit/3-events-game-with-goblins)
+
 
 
 ### [Gh-page](https://mksinc.github.io/AHJ-hw.-3-Events.-1-Game-with-goblins/)
